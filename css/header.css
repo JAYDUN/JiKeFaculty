@@ -35,11 +35,12 @@ dl {
     -webkit-margin-after: 1em;
     -webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
+    margin:0;
 }
-dd {
-    display: block;
-    -webkit-margin-start: 40px;
-}
+/*dd {*/
+    /*display: block;*/
+    /*-webkit-margin-start: 40px;*/
+/*}*/
 header nav li i.arrow-icon {
     margin-bottom: 2px;
 }
@@ -253,7 +254,7 @@ nav .vip-lesson a span {
     position: relative;
     float: right;
     text-align: right;
-    width: 200px;
+    width: 137px;
     margin-right: 10px;
     height: 60px;
 }

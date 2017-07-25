@@ -1,4 +1,11 @@
-/*极客学院官网尾部的css样式*/
+/*极客学院官网尾部.sort .sortMode dt>.arrow:after {
+    position: absolute;
+    left: 1px;
+    bottom: 1px;
+    border-width: 4px;
+    border-bottom-width: 0;
+    border-top-color: #fff;
+}的css样式*/
 
 footer {
     min-width: 1000px;
@@ -88,7 +95,7 @@ footer .jk-down .downCon {
     cursor: pointer;
 }
 footer .jk-down .down-ios {
-    background: url(//e.jikexueyuan.com/headerandfooter/images/icon-down-ios.png)no-repeat 0 0;
+    /*background: url(//e.jikexueyuan.com/headerandfooter/images/icon-down-ios.png)no-repeat 0 0;*/
     background-size: 30px 30px;
 }
 footer .jk-down .downCon img {
@@ -102,7 +109,7 @@ footer .jk-down .downCon img {
     display: none;
 }
 footer .jk-down .down-and {
-    background: url(//e.jikexueyuan.com/headerandfooter/images/icon-down-and.png)no-repeat 0 0;
+    /*background: url(//e.jikexueyuan.com/headerandfooter/images/icon-down-and.png)no-repeat 0 0;*/
     background-size: 30px 30px;
 }
 footer .jk-down .downCon:hover img {
